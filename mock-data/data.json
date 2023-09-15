@@ -1,0 +1,22 @@
+{
+  "info": {
+    "method": "POST",
+    "params": {
+      "paramA": 10,
+      "paramB": "Ping"
+    }
+  },
+  "data": {
+    "name": "Ping",
+    "age": 10,
+    "gender": true,
+    "height": 1.65,
+    "grade": null,
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "Lisp"
+    ]
+  }
+}

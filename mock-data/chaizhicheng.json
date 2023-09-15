@@ -1,0 +1,11 @@
+{
+    "info": {
+        "method": "GET",
+        "params": {}
+    },
+    "data": {
+        "name": "chaizhicheng",
+        "age": 20,
+        "sex": "男"
+    }
+}

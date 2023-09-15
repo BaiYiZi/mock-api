@@ -1,0 +1,19 @@
+{
+  "info": {
+    "method": "GET",
+    "params": {}
+  },
+  "data": {
+    "name": "baiyizi",
+    "age": 20,
+    "gender": true,
+    "height": 1.65,
+    "grade": null,
+    "skills": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "Lisp"
+    ]
+  }
+}
